@@ -12,7 +12,7 @@
 
 Spotify Premium APK adalah versi modifikasi dari aplikasi Spotify yang terkenal. Aplikasi ini memungkinkan pengguna menikmati fitur premium secara gratis di perangkat Android. Dapatkan pengalaman tanpa iklan, skip tanpa batas, unduhan offline, dan kualitas audio superior—semua tanpa biaya berlangganan.  
 
-![images (50)](https://github.com/user-attachments/assets/6211ec0c-6f7a-4d6b-acb6-89ad50e3bafc)
+![images (48)](https://github.com/user-attachments/assets/17740f7e-cc89-4a9d-8dee-59a0e60fe03c)
 
 
 ## Apa itu Spotify Premium APK?  
